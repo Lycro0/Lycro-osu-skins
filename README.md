@@ -22,7 +22,7 @@ My personal collection of osu! skins. List updated and maintained by **Lycro**.
 
 
 
-![]([https://imgur.com/a/jqc3pMu](https://imgur.com/a/jqc3pMu))
+![](https://imgur.com/a/jqc3pMu)
 
 
 
