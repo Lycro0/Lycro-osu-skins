@@ -3,7 +3,7 @@ My personal collection of osu! skins. List updated and maintained by **Lycro**.
 
 ### Contact & Support
 * **osu! Profile:** [Lycro](https://osu.ppy.sh/users/34527580)
-* **Discord:** @Lycro
+* **Discord:** @Lycro.
 
 ---
 
